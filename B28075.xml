@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five essays in political arithmetick ... by Sir William Petty ...</title>
+            <author>Petty, William, Sir, 1623-1687.</author>
+         </titleStmt>
+         <extent>Approx. 76KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28075</idno><idno type="EEBO-CITATION">12358525</idno>
+  <idno type="VID">199217</idno>
+  <idno type="EEBO-PROQUEST">2240975858</idno>
+  
+            <idno type="STC">Wing P1924</idno>
+            <idno type="OCLC">12358525</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199217)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 220:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five essays in political arithmetick ... by Sir William Petty ...</title>
+                  <author>Petty, William, Sir, 1623-1687.</author>
+               </titleStmt>
+               <extent>[8], [1], 51, 51 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Mortlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Parallel text in English and French; opposite pages bear duplicate numbering.</note>
+                  <note>Title on added t.p.: Cinq essays sur l'arithmetique politique.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+                  <note>(from t.p.) I. Objections from the city of Rey in Persia and from Monsr. Auzout against two former essays, answered -- II. A comparison between London and Paris in 14 particulars -- III. Proofs that at London ... there live about 696 thousand people -- IV. An estimate of the people in London, Paris, Amsterdam, Venice, Rome, Dublin, Bristoll and Rouen, with several observations upon the same -- V. Concerning Holland and the rest of the VII United Provinces.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  Statistics.</term>
+               <term type="geographic_name">Europe --  Statistics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div xml:lang="fre" type="imprimatur">
+            <pb facs="tcp:199217:1"/>
+            <pb facs="tcp:199217:2"/>
+            <pb facs="tcp:199217:1"/>
+            <opener>
+               <dateline>WHITE-HALL, <date>Feb. <hi>18th,</hi> 1686/7.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Que cecy soit imprimé.</hi>
+            </p>
+            <closer>
+               <signed>Sunderland <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="imprimatur">
+            <pb facs="tcp:199217:2"/>
+            <opener>
+               <dateline>
+                  <hi>WHITE-HALL,</hi>
+                  <date>
+                     <hi>Feb.</hi> 18th, 1686/7.</date>
+               </dateline>
+            </opener>
+            <p>Let this be printed.</p>
+            <closer>
+               <signed>
+                  <hi>Sunderland</hi> P.</signed>
+            </closer>
+         </div>
+         <div xml:lang="fre" type="title_page">
+            <pb facs="tcp:199217:3"/>
+            <p>
+               <hi>CINQ ESSAYS SUR L'Arithmetique Politique.</hi>
+            </p>
+            <p n="1">
+               <hi>I.</hi> On Répond aux Objections tirées de la Ville de <hi>Rey</hi> en <hi>Perse,</hi> &amp; a celles de Mr. <hi>Auzout</hi> contre les deux premiers Es<g ref="char:EOLhyphen"/>says, &amp; l'on fait voir qu'il y a autant de monde a <hi>Londres</hi> qu'a <hi>Paris, Rome</hi> &amp; <hi>Rouen</hi> pris ensemble.</p>
+            <p n="2">
+               <hi>II.</hi> Comparaison entre <hi>Londres</hi> &amp; <hi>Paris</hi> en 14 choses particuliers.</p>
+            <p n="3">
+               <hi>III.</hi> Preuves qu'il demeure dans les 134 pa<g ref="char:EOLhyphen"/>roisses de <hi>Londres</hi> marquées dans les bil<g ref="char:EOLhyphen"/>lets de mortalité, environ 696 mille per<g ref="char:EOLhyphen"/>sonnes.</p>
+            <p n="4">
+               <hi>IV.</hi> Combien l'on estime qu'il y a de monde a <hi>Londres, Paris, Amsterdam, Venise, Rome, Dublin, Bristol</hi> &amp; <hi>Rouen</hi> avec plusieurs remarques sur ce Sujet.</p>
+            <p n="5">
+               <hi>V.</hi> Touchant la <hi>Hollande</hi> &amp; les autres VII <hi>Provinces Unies.</hi>
+            </p>
+            <p>
+               <hi>Par le Chevalier</hi> PETTY <hi>de la Société Royale.</hi>
+            </p>
+            <q>
+               <hi>Invidiam Augendo ulciscar.</hi>
+            </q>
+            <p>
+               <hi>A</hi> LONDRE, <hi>Impremie pour</hi> Henry Mortlock <hi>au</hi> Phoenix <hi>dore dans le Cimetier de St.</hi> Paul. 1687.</p>
+         </div>
+         <div xml:lang="eng" type="title_page">
+            <pb facs="tcp:199217:3"/>
+            <p> FIVE ESSAYS IN <hi>Political Arithmetick,</hi> VIZ.</p>
+            <p n="1">I. Objections from the City of <hi>Rey</hi> in <hi>Persia,</hi> and from Mons<seg rend="sup">r</seg>
+               <hi>Auzout,</hi> against two former Essays, answered, and that <hi>London</hi> hath as many People as <hi>Paris, Rome</hi> and <hi>Rouen</hi> put together.</p>
+            <p n="2">II. A Comparison between <hi>London</hi> and <hi>Paris</hi> in 14 particulars.</p>
+            <p n="3">III. Proofs that at <hi>London,</hi> within its 134 Parishes named in the Bills of Morta<g ref="char:EOLhyphen"/>lity, there live about 696 thousand People.</p>
+            <p n="4">IV. An estimate of the People in <hi>London, Paris, Amsterdam, Venice, Rome, Dublin, Bristoll</hi> and <hi>Rouen,</hi> with several obser<g ref="char:EOLhyphen"/>vations upon the same.</p>
+            <p n="5">V. Concerning <hi>Holland</hi> and the rest of the VII <hi>Ʋnited Provinces.</hi>
+            </p>
+            <p>By Sir <hi>WILLIAM PETTY,</hi> Fellow of the Royal Society.</p>
+            <q>
+               <hi>Invidiam augendo ulciscar.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Mortlock</hi> at the <hi>Phoenix</hi> in St. <hi>Paul</hi>'s Church-yard. 1687.</p>
+         </div>
+         <div xml:lang="fre" type="dedication">
+            <pb facs="tcp:199217:4"/>
+            <head>Au ROY.</head>
+            <opener>
+               <salute>SIRE,</salute>
+            </opener>
+            <p>VOstre Majesté ayant bien voulu recevoir favorable<g ref="char:EOLhyphen"/>ment mes deux derniers Essays sur les villes &amp; Hopitaux de <hi>Londres</hi> &amp; de <hi>Paris,</hi> &amp; mes Observations sur <hi>Rome</hi> &amp; <hi>Rouen,</hi> je prens la liberté (apres avoir attendu pendan<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> six mois ce que pourroient dir<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> les scavants de L' <hi>Europe</hi> con<g ref="char:EOLhyphen"/>tre ce que j'y avance) de luy
+<pb facs="tcp:199217:5"/> presenter quelquss autres écrit, sur ce méme sujet pour confir<g ref="char:EOLunhyphen"/>mer, éclaircir, &amp; étendre, le premiers, croian louer beaucou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mieux vostre Majesté par ce. sortes d'arguments réels qu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> par les discours les plus étudie<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> &amp; les éloges les plus éclatan que pourroit imaginer celuy qu est</p>
+            <closer>
+               <signed>
+                  <hi>De Vostre Majesté Le tres-humble, tres-fidéle &amp; tres-obëissant Sujet,</hi> PETTY</signed>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="dedication">
+            <pb facs="tcp:199217:4"/>
+            <head>TO THE KING'S Most Excellent MAJESTY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Majesty having gra<g ref="char:EOLhyphen"/>ciously accepted my two late Essays, about the Cities and Hospitals of <hi>London</hi> and <hi>Paris,</hi> as also my Observations on <hi>Rome</hi> and <hi>Rouen;</hi> I do (after six Months waiting for what may be said against my several Doctrines, by the able men of <hi>Europe)</hi> humble pre<g ref="char:EOLhyphen"/>sent
+<pb facs="tcp:199217:5"/> Your Majesty with a few other Papers upon the same Subject, to strengthen, ex<g ref="char:EOLhyphen"/>plain and enlarge the former; hoping by such real argu<g ref="char:EOLhyphen"/>ments, better to praise and magnifie Your Majesty, than by any other the most speci<g ref="char:EOLhyphen"/>ous Words and Elogies that can be imagined by</p>
+            <closer>
+               <signed>
+                  <hi>Your Majesty's Most humble, loyal and obedient Subject,</hi> William Petty.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" xml:lang="fre" type="essay">
+            <pb n="1" facs="tcp:199217:6"/>
+            <head>PREMIER ESSAY.</head>
+            <p>ON devoit bien s'attendre qu'une assertion que <hi>Lon<g ref="char:EOLhyphen"/>dres</hi> est plus grand que <hi>Paris</hi> &amp; <hi>Rouen</hi> ou que <hi>Paris</hi> &amp; <hi>Rome</hi> pris ensemble, ou méme plus qu'au<g ref="char:EOLhyphen"/>cune ville du monde ne manque<g ref="char:EOLhyphen"/>roit pas d'estre contredite, &amp; l'on a dû s'attendre aussi que si je con<g ref="char:EOLhyphen"/>tinuois dans le méme sentiment, je ne manquerois pas de répliquer a ces contradictions. dans ce dessein,</p>
+            <p>Je commence par L'ingenieux auteur de la république des Let<g ref="char:EOLhyphen"/>tres qui dit que <hi>Rey</hi> en <hi>Perse</hi> est beaucoup plus grand que <hi>Londres,</hi>
+               <pb n="2" facs="tcp:199217:7"/> parce que dans la 6<seg rend="sup">e</seg> centurie du christianisme (je suppose l'an 550, le milieu de ce ciécle, il y avoit 15000, ou plûtest 44000 mosqueés ou temples Mahometans, a quoy je répons que ce ne peut estre qu'une raillerie de l'auteur, puis<g ref="char:EOLhyphen"/>que <hi>Mahomet</hi> n'est venu au monde que vers l'an 570 &amp; n'a eu des mosquées qu'environ 50 ans apres.</p>
+            <p>Ensuite je repons aux lettres que l'excellent Mr. <hi>Auzout</hi> écrit de <hi>Londres,</hi> Lequel veut bien demeu<g ref="char:EOLhyphen"/>rer d'accord que <hi>Londres, Westmin<g ref="char:EOLhyphen"/>ster</hi> &amp; <hi>Southwark,</hi> ont autant d'ha<g ref="char:EOLhyphen"/>bitans qu'il y en a dans <hi>Paris</hi> &amp; ses fauxbourgs, &amp; ne nie que foi<g ref="char:EOLhyphen"/>blement qu'il ne puisse y avoir presqu'autant de monde dans tout ce qu'il ya de maisons comprises
+<pb n="3" facs="tcp:199217:8"/> dans les billets de mortalité qu'a <hi>Paris</hi> &amp; a <hi>Rouen,</hi> mais il dit que plusieurs paroisses inserées dans ces billets, sont assés eloignées de <hi>Lon<g ref="char:EOLhyphen"/>dres,</hi> &amp; n'y sont pas contigues, &amp; que c'est ainsi que L'entend <hi>Grant.</hi>
+            </p>
+            <p>A quoy (comme estant sa capi<g ref="char:EOLhyphen"/>tale pour ne pas dire sa seule objec<g ref="char:EOLhyphen"/>tion) nous repondons. 1. Qu'il pa<g ref="char:EOLhyphen"/>roit par le livre de <hi>Grant</hi> que les billets de <hi>Londres</hi> ont toujours esté depuis L'an 1636 comme ils sont maintenant. 2. Que depuis envi<g ref="char:EOLhyphen"/>ron 50 ans, 3 ou 4 paroisses qui estoient autrefois un peu éloignées ont esté jointes par le moyen des batimens qui ont esté faits entre deux au corps de la ville &amp; c'est ce qui les a fait inserer dans les billets. 3. Que depuis 50 ans le total des
+<pb n="4" facs="tcp:199217:9"/> batimens estant augmenté au dou<g ref="char:EOLhyphen"/>ble a achevé cette union de belle maniere qu'il n'y a maintenant au<g ref="char:EOLhyphen"/>cune des maisons comprises dans ces billets qui ne soit a la portée de la voix d'une autre maison. 4. Tout cecy est confirmé par L'authorité du Roy &amp; de la ville &amp; une cou<g ref="char:EOLhyphen"/>tume de 50 ans. 5. Qu'il n'y a que 3 paroisses pour lesquelles on puis<g ref="char:EOLhyphen"/>se former cette difficulté avec quel<g ref="char:EOLhyphen"/>que sorte de couleur, ce qui fait a peine 1/52 partie du tout.</p>
+            <p>Sur le tout, A la premiere lec<g ref="char:EOLhyphen"/>ture de cette lettre fortample de Mr. <hi>Auzout,</hi> datée de <hi>Rome</hi> du 19 <hi>Nov.</hi> 1686, je fis des remarques sur chaque paragraphe, mais je les ay supprimeés, parce que cela parois<g ref="char:EOLhyphen"/>soit comme une espece de guerre
+<pb n="5" facs="tcp:199217:10"/> avec une personne de merite avec qui je n'en voulois point avoir, quoy que ce ne fut dans le fonds qu'un éclaircissement de quelques doutes, &amp; j'ay choisi un moyen plus court &amp; plus doux pour ré<g ref="char:EOLhyphen"/>pondre a Mr. <hi>Auzout</hi> comme nous allons faire.</p>
+            <div type="calculations">
+               <pb n="6" facs="tcp:199217:11"/>
+               <head>
+                  <hi>Du nombre des habitans de</hi> Londres, <hi>comme aussi de ceux de</hi> Paris, Rouen <hi>&amp;</hi> Rome.</head>
+               <list>
+                  <item>M<seg rend="sup">r</seg>
+                     <hi>Auzout</hi> cite un re<g ref="char:EOLhyphen"/>gistre authentique qui porte qu'il y a 23223 maisons dans <hi>Paris</hi> ou il demeure plus de 80 mille familles, ainsi sup<g ref="char:EOLhyphen"/>posant qu'il demeure dans chacune deces maisons 3 ½ familles l'une portant l'autre, le nombre des familles se<g ref="char:EOLhyphen"/>ra 81280, &amp; Mr. <hi>Auzout</hi> mettant 6 tétes par fa<g ref="char:EOLhyphen"/>mille, le plus grand nombre ou l'on puisse faire monter les habi<g ref="char:EOLhyphen"/>tans de <hi>Paris</hi> selon son opinion sera
+<list>
+                        <item>487, 680</item>
+                     </list>
+                  </item>
+                  <pb n="7" facs="tcp:199217:12"/>
+                  <item> Mr. <hi>Auzout</hi> ne nie pas que le medium des en<g ref="char:EOLhyphen"/>terremens de <hi>Paris</hi> ne soit 19887; ny qu'il n'en meure 3506 sans neces<g ref="char:EOLhyphen"/>sité a L'hotel dieu, ainsi en déduisant ce dernier nombre du premier la meilleure regle pour les enterremens de <hi>Paris</hi> se<g ref="char:EOLhyphen"/>ra 16381, tellement que le nombre des habitans, supposant qu'il n'en meurt qu'un de 30 (ce qui est plus avantageux pour <hi>Paris</hi> que l'opini<g ref="char:EOLhyphen"/>on de Mr. <hi>Auzout</hi> qu'il en meurt un de 25) le nombre des habitans de <hi>Paris</hi> sera 491,430, plus
+<pb n="8" facs="tcp:199217:13"/> qu'il nes'en trouve par le dernier conte rapporté par Mr. <hi>Auzout</hi> méme.
+<list>
+                        <item>491,430</item>
+                     </list>
+                  </item>
+                  <item>Le medium de ces 2 contes de <hi>Paris</hi> est
+<list>
+                        <item>488,055</item>
+                     </list>
+                  </item>
+                  <item>Le medium des en<g ref="char:EOLhyphen"/>terrements de <hi>Londres</hi> est réelement 23212, qui estant multipliez par 30 (comme on a fait pour <hi>Paris)</hi> le nombre habitans sera
+<list>
+                        <item>696,360</item>
+                     </list>
+                  </item>
+                  <pb n="9" facs="tcp:199217:14"/>
+                  <item> Il paroit par le regi<g ref="char:EOLhyphen"/>stre des maisons de <hi>Lon<g ref="char:EOLhyphen"/>dres</hi> qu'il y en a 105315; a quoy ajoutant 1/10 par<g ref="char:EOLhyphen"/>tie de ce méme nom<g ref="char:EOLhyphen"/>bre, comme le moindre nombre de familles doubles que l'on puisse supposer qu'il ya a <hi>Lon<g ref="char:EOLhyphen"/>dres,</hi> le total des famil<g ref="char:EOLhyphen"/>les sera 115840; &amp; en mettant 6 personnes pour chaque famille comme on fait pour <hi>Paris,</hi> le total des habi<g ref="char:EOLhyphen"/>tans de <hi>Londres</hi> sera
+<list>
+                        <item>695,076</item>
+                     </list>
+                  </item>
+                  <item>Le medium de ces 2 derniers contes de <hi>Lon<g ref="char:EOLhyphen"/>dres</hi> est
+<list>
+                        <item>695,718</item>
+                     </list>
+                  </item>
+                  <item>693,055
+<list>
+                        <pb n="10" facs="tcp:199217:15"/>
+                        <item>Tellement que le nom<g ref="char:EOLhyphen"/>bre des habi<g ref="char:EOLhyphen"/>tans de <hi>Pa<g ref="char:EOLhyphen"/>ris</hi> suivant le conte cy des<g ref="char:EOLhyphen"/>sus est
+<list>
+                              <item>488,055</item>
+                           </list>
+                        </item>
+                        <item>De <hi>Rouen</hi> suivant le plus que Mr. <hi>Auzout</hi> y en mette
+<list>
+                              <item>80,000</item>
+                           </list>
+                        </item>
+                        <item>De <hi>Rome</hi> selon ce qu'il en rapporte luy méme dans sa lettre precedente.
+<list>
+                              <item>125,000</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="11" facs="tcp:199217:16"/>
+                  <item> Si bien qu'il y a plus de monde a <hi>Londres</hi> qu'a <hi>Paris, Rouen</hi> &amp; <hi>Rome</hi> de
+<list>
+                        <item>2,663</item>
+                     </list>
+                  </item>
+                  <item>Il faut observer que les paroisses de <hi>Islington, Newington</hi> &amp; <hi>Hack<g ref="char:EOLhyphen"/>ney,</hi> qui sont les seules que l'on pourroit pretendre avec quel<g ref="char:EOLhyphen"/>que sorte de couleur n'estre pas contigues, ne font pas 1/52 partie de ce qui est compris dans les billets de mortallité, &amp; que par consequent il ya en<g ref="char:EOLhyphen"/>core sans ces 3 parois<g ref="char:EOLhyphen"/>ses plus de monde a
+<pb n="12" facs="tcp:199217:17"/>
+                     <hi>Londres</hi> qu'a <hi>Paris</hi> &amp; a <hi>Rouen</hi> pris ensem<g ref="char:EOLhyphen"/>ble de
+<list>
+                        <item>114,284</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Le quel nombre de 114, 284 est probablement plus qu'aucune autre ville de <hi>France</hi> ne contient de monde.</p>
+            </div>
+         </div>
+         <div n="1" xml:lang="eng" type="essay">
+            <pb n="1" facs="tcp:199217:6"/>
+            <head>The FIRST ESSAY.</head>
+            <p>IT could not be expected that an assertion of <hi>London</hi>'s being bigger than <hi>Paris</hi> and <hi>Rouen,</hi> or than <hi>Paris</hi> and <hi>Rome</hi> put together, and bigger than any City of the World, should scape uncontradicted; and 'tis also expected, that I (if continuing in the same persuasion) should make some reply to those contradictions. In order where<g ref="char:EOLhyphen"/>unto,</p>
+            <p>I begin with the ingenious Au<g ref="char:EOLhyphen"/>thour of the <hi>Republiq des Lettres,</hi> who saith that <hi>Rey</hi> in <hi>Persia</hi> is far bigger than <hi>London,</hi> for that
+<pb n="2" facs="tcp:199217:7"/> in the sixth Century of Christianity (I suppose <hi>An.</hi> 550 the middle of that Century) it had 15000, or rather 44000 Moschees, or Ma<g ref="char:EOLhyphen"/>hometan Temples; to which I re<g ref="char:EOLhyphen"/>ply, that I hope this Objector is but in jest, for that <hi>Mahomet</hi> was not born till about the year 570, and had no Moschees till about 50 years after.</p>
+            <p>In the next place I reply to the excellent Monsr. <hi>Auzout</hi> Letters from <hi>Rome,</hi> who is content that <hi>London, Westminster</hi> and <hi>South<g ref="char:EOLhyphen"/>wark,</hi> may have as many people as <hi>Paris</hi> and its Suburbs; and but faintly denieth, that all the Hou<g ref="char:EOLhyphen"/>sing within the Bills, may have almost as many people as <hi>Paris</hi> and
+<pb n="3" facs="tcp:199217:8"/>
+               <hi>Rouen,</hi> but saith that several Pa<g ref="char:EOLhyphen"/>rishes inserted into these Bills, are distant from, and not contiguous with <hi>London,</hi> and that <hi>Grant</hi> so understood it.</p>
+            <p>To which (as his main if not his onely objection) we answer: 1. That the <hi>London</hi> Bills appear in <hi>Grant</hi>'s Book, to have been always since the year 1636, as they now are. 2. That about 50 years since, 3 or 4 Parishes, for<g ref="char:EOLhyphen"/>merly somewhat distant were joy<g ref="char:EOLhyphen"/>ned by interposed Buildings, to the Bulk of the City, and there<g ref="char:EOLhyphen"/>fore then inserted into the Bills. 3. That since 50 years, the whole
+<pb n="4" facs="tcp:199217:9"/> buildings being more than dou<g ref="char:EOLhyphen"/>ble; have perfected that Ʋnion, so as there is no House within the said Bills, from which one may not call to some other House. 4. All this is confirmed by Au<g ref="char:EOLhyphen"/>thority of the King and City, and the Custome of 50 years. 5. That there are but 3 Parishes under any colour of this Exception, which are scarce 1/52 part of the whole.</p>
+            <p>Ʋpon the whole matter, upon sight of Monsr. <hi>Auzout</hi>'s large Let<g ref="char:EOLhyphen"/>ter, dated the 19th of <hi>November,</hi> from <hi>Rome,</hi> I made Remarques upon every Paragraph thereof; but suppressing it (because it lookt like a War against a worthy Per<g ref="char:EOLhyphen"/>son
+<pb n="5" facs="tcp:199217:10"/> with whom I intended none, whereas in truth it was but a re<g ref="char:EOLhyphen"/>conciling explication of some doubts) I have chosen the shorter and softer way of answering Monsieur <hi>Auzout</hi> as followeth, <hi>viz.</hi>
+            </p>
+            <div type="calculations">
+               <pb n="6" facs="tcp:199217:11"/>
+               <head>
+                  <hi>Concerning the number of People in</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>as also in</hi> Paris, Rouen <hi>and</hi> Rome, viz.</head>
+               <list>
+                  <item>Monsieur <hi>Auzout</hi> al<g ref="char:EOLhyphen"/>ledgeth an authentick Accompt, that there are 23223 Houses in <hi>Paris,</hi> wherein do live about 80 thousand Families, and therefore supposing 3 ½ Families to live in e<g ref="char:EOLhyphen"/>very of the said Hou<g ref="char:EOLhyphen"/>ses, one with another, the number of Families will be 81280; and Monsr. <hi>Auzout</hi> also al<g ref="char:EOLhyphen"/>lowing 6 Heads to each Family, the utmost num<g ref="char:EOLhyphen"/>ber of People in <hi>Paris</hi> according to that opini<g ref="char:EOLhyphen"/>on will be
+<list>
+                        <item>487, 680</item>
+                     </list>
+                  </item>
+                  <pb n="7" facs="tcp:199217:12"/>
+                  <item> The Medium of the <hi>Paris</hi> Burials was not de<g ref="char:EOLhyphen"/>nied by Monsr. <hi>Auzout</hi> to be 19887, nor that there died 3506 unne<g ref="char:EOLhyphen"/>cessarily out of <hi>L'Hotel-Dieu;</hi> wherefore deduc<g ref="char:EOLhyphen"/>ting the said last Num<g ref="char:EOLhyphen"/>ber out of the former, the neat standard for Burials at <hi>Paris,</hi> will be 16381, so as the num<g ref="char:EOLhyphen"/>ber of People there, al<g ref="char:EOLhyphen"/>lowing but one to die out of 30 (which is more ad<g ref="char:EOLhyphen"/>vantageous to <hi>Paris</hi> than Monsr. <hi>Auzout</hi>'s opinion of one to die out of 25) the number of People at <hi>Paris</hi> will be 491,430,
+<pb n="8" facs="tcp:199217:13"/> more than by Monsr. <hi>Au<g ref="char:EOLhyphen"/>zout</hi>'s own last mentio<g ref="char:EOLhyphen"/>ned Account.
+<list>
+                        <item>491,430</item>
+                     </list>
+                  </item>
+                  <item>And the Medium of the said 2 <hi>Paris</hi> acc<seg rend="sup">ts</seg> is
+<list>
+                        <item>488,055</item>
+                     </list>
+                  </item>
+                  <item>The Medium of the <hi>London</hi> Burials is re<g ref="char:EOLhyphen"/>ally 23212, which mul<g ref="char:EOLhyphen"/>tiplied by 30 (as hath been done for <hi>Paris)</hi> the number of the People there will be
+<list>
+                        <item>696,360</item>
+                     </list>
+                  </item>
+                  <pb n="9" facs="tcp:199217:14"/>
+                  <item> The number of Houses at <hi>London</hi> appears by the Register to be 105,315, whereunto adding 1/10 part of the same, or 10331, as the least number of double Families that can be supposed in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the total of Fa<g ref="char:EOLhyphen"/>milies will be 115,840; and allowing 6 heads for each Family as was done for <hi>Paris,</hi> the to<g ref="char:EOLhyphen"/>tal of the People at <hi>London</hi> will be
+<list>
+                        <item>695,076</item>
+                     </list>
+                  </item>
+                  <item>The Medium of the two last <hi>London</hi> Ac<g ref="char:EOLhyphen"/>counts is
+<list>
+                        <item>695,718</item>
+                     </list>
+                  </item>
+                  <item>693,055
+<list>
+                        <pb n="10" facs="tcp:199217:15"/>
+                        <item>So as the <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eople of <hi>Pa<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>is</hi> according <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o the above <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ccount is
+<list>
+                              <item>488,055</item>
+                           </list>
+                        </item>
+                        <item>Of <hi>Rouen</hi> according to Monsr. <hi>Au<g ref="char:EOLhyphen"/>zout</hi>'s utmost demands
+<list>
+                              <item>80,000</item>
+                           </list>
+                        </item>
+                        <item>Of <hi>Rome</hi> according to his own re<g ref="char:EOLhyphen"/>port thereof in a former Letter
+<list>
+                              <item>125,000</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="11" facs="tcp:199217:16"/>
+                  <item> So as there are more People at <hi>London</hi> than at <hi>Paris, Rouen</hi> and <hi>Rome</hi> by
+<list>
+                        <item>2,663</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Memorandum,</hi> That the Parishes of <hi>Isling<g ref="char:EOLhyphen"/>ton, Newington</hi> and <hi>Hackney,</hi> for which onely there is any colour of Non-conti<g ref="char:EOLhyphen"/>guity, is not 1/52 part of what is contained in the Bills of Mor<g ref="char:EOLhyphen"/>tality, and conse<g ref="char:EOLhyphen"/>quently <hi>London,</hi> without the said 3 Parishes, hath more
+<pb n="12" facs="tcp:199217:17"/> People than <hi>Paris</hi> and <hi>Rouen</hi> put to<g ref="char:EOLhyphen"/>gether by
+<list>
+                        <item>114,284</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Which number of 114, 284 is probably more People than any o<g ref="char:EOLhyphen"/>ther City of <hi>France</hi> contains.</p>
+            </div>
+         </div>
+         <div n="2" xml:lang="fre" type="essay">
+            <pb n="13" facs="tcp:199217:18"/>
+            <head>SECOND ESSAY.</head>
+            <p>POur ce qui est des autres com<g ref="char:EOLhyphen"/>paraisons de <hi>Londres</hi> avec <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> nous repetons encor &amp; nous é<g ref="char:EOLhyphen"/>tendons ce qui a esté dit autrefois sur ce sujet de la maniere qui suit,</p>
+            <p n="1">1. Qu'il en meurt 40 de cen dans les hopitaux de <hi>Paris</hi> ou il er meurt un si grand nombre sans ne<g ref="char:EOLunhyphen"/>cessité, &amp; à peine 1/20 de la méme pro<g ref="char:EOLunhyphen"/>portion dans les hopitaux de <hi>Lon<g ref="char:EOLunhyphen"/>dres</hi> que l'on a fait voir estre meil<g ref="char:EOLunhyphen"/>leurs que le meilleur de <hi>Paris.</hi>
+            </p>
+            <p n="2">2. Qu'il ya a <hi>Paris</hi> 81280 fa<g ref="char:EOLunhyphen"/>milles ou cuisines dans moi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="14" facs="tcp:199217:19"/> de 24000 maisons ou portes sur la rue ce qui rend leur maniere de vivre moins propre &amp; moins com<g ref="char:EOLhyphen"/>mode qu'a <hi>Londres.</hi>
+            </p>
+            <p n="3">3. Lá ou le nombre des ba<g ref="char:EOLhyphen"/>témes approche fort ou va méme au dela des enterremens, le monde y est plus pauvre n'ayant que peu de serviteurs &amp; qu'un petit equipage.</p>
+            <p n="4">4. La riviére de la <hi>Tamise</hi> est plus agreable &amp; plus navigable que la <hi>Seine,</hi> ses eaües sont meil<g ref="char:EOLhyphen"/>leures &amp; plus saines &amp; le pont de <hi>Londres</hi> est le plus considerable de toute L'<hi>Europe.</hi>
+            </p>
+            <p n="5">5. Les vaisseaux &amp; le commerce étranger de <hi>Londres,</hi> font incompa<g ref="char:EOLhyphen"/>rablement plus grands qu'a <hi>Paris</hi> &amp; a <hi>Rouen.</hi>
+            </p>
+            <p n="6">
+               <pb n="15" facs="tcp:199217:20"/> 6. Les chambres des gens de Loy a <hi>Londres</hi> contiennent 2772 cheminées &amp; valent 240 mille li<g ref="char:EOLhyphen"/>vres sterlin ou 3 millions de livres de <hi>France,</hi> outre les logements de leurs familles en d'autres lieux.</p>
+            <p n="7">7. L'air y est plus sain, car a <hi>Londres</hi> a peine en meurt il 2 de 16 dans les plus méchants hopitaux, aulieu qu'a <hi>Paris</hi> il en meurt 2 de 15 dans les meilleurs, de plus les en<g ref="char:EOLhyphen"/>terremens de <hi>Paris</hi> sont ⅕ partie au dessus &amp; au dessous du medium, au lieu qu'a <hi>Londres</hi> ce n'est pas plus de 1/12, d'ou il s'ensuit que l'air est bien moins temperé a <hi>Paris</hi> qu'a <hi>Londres.</hi>
+            </p>
+            <p n="8">8. Le chauftage y est a meilleur marché &amp; tient moins de place, Le
+<pb n="16" facs="tcp:199217:21"/> charbon estant un bitume sulfuré qui est asses sain.</p>
+            <p n="9">9. Les vivres les plus necessaires &amp; les poissons y sont ausi a meil<g ref="char:EOLhyphen"/>leur marché &amp; on y trouve de toutes sortes de boissons en plus grande abondance qu'en aucun autre lieu.</p>
+            <p n="10">10. Pour ce qui est des églises nous nous en rapportons au juge<g ref="char:EOLhyphen"/>ment des yeux de chacun, croiant qu'il n'y a rien a <hi>Paris</hi> de si grand qu'estoit &amp; que sera St. <hi>Paul,</hi> ny de si beau que la chapelle de <hi>Henry VII.</hi>
+            </p>
+            <p n="11">11. D'un autre coté il est pro<g ref="char:EOLhyphen"/>bable qu'il ya plus d'argent a <hi>Paris</hi> qu'a <hi>Londres</hi> si l'on y trouve le re<g ref="char:EOLhyphen"/>venu public qui pour en Parler
+<pb n="17" facs="tcp:199217:22"/> grossierement, est quatre fois plus grand que celui d' <hi>Angleterre.</hi>
+            </p>
+            <p n="12">12. <hi>Paris</hi> n'a pas esté si fort in<g ref="char:EOLhyphen"/>commodé de la peste que <hi>Londres</hi> ces 50 dernieres années. Cependant la peste (qui a recommencé 5 fois a <hi>Londres</hi> entre les années 1591 &amp; 1666, c'est a dire tous les 15 ans dans un medium &amp; qui a chaque fois a emporte ⅕ des habitans, n'y a point esté conue pendant les 21 ans derniers passez, &amp; l'on croit avoir trouvé un moyen visible, avec l'as<g ref="char:EOLhyphen"/>sistance ordinaire de dieu, de la diminuer des ⅔ la premiere fois qu'elle reviendra.</p>
+            <p n="13">13. Quand au terrain sur lequel <hi>Paris</hi> est bati par rapport a <hi>Londres,</hi> nous disons que si les maisons de
+<pb n="18" facs="tcp:199217:23"/>
+               <hi>Paris</hi> sont a 5 étages contre celles de <hi>Londres</hi> a 4 ou a semblable pro<g ref="char:EOLhyphen"/>portion, les 82 mille familles de <hi>Paris</hi> sont donc sur un terrain equi<g ref="char:EOLhyphen"/>valent a 65 mille assiétes de mai<g ref="char:EOLhyphen"/>sons de <hi>Londres;</hi> &amp; s'il y'a 115 mil<g ref="char:EOLhyphen"/>le familles a <hi>Londres</hi> &amp; seulement 82 mille a <hi>Paris,</hi> la proportion du terrain de <hi>Londres</hi> a celuy de <hi>Paris</hi> est comme 115 à 65, ou comme 23 à 13.</p>
+            <p n="14">14. De plus on dit que <hi>Paris</hi> est un ovale long de 3 milles d' <hi>Angle<g ref="char:EOLhyphen"/>terre</hi> &amp; large de 2½ dont le plan ne contient que 5 miles &amp; demy qua<g ref="char:EOLhyphen"/>rez; aulieu que <hi>Londres</hi> a 7 miles de long &amp; 1¼ de large duns un medium, ce qui fait un plan de pres de 9 miles quarez, laquelle propor<g ref="char:EOLhyphen"/>tion de 5½ à 9 est peu differente de celle de 13 a 23. </p>
+            <p n="15">
+               <pb n="19" facs="tcp:199217:24"/> 15. Il est a remarquer qu'au temps de <hi>Neron</hi> (comme le rappor<g ref="char:EOLhyphen"/>te Mr. <hi>Chevreau)</hi> il mourut dans la vieille <hi>Rome</hi> 300 mille personnes de la peste, que s'il y en mourut a<g ref="char:EOLhyphen"/>lors 3 de 10, a cause que le pays est plus chaud, comme il en meurt a <hi>Londres</hi> 2 de 10, le nombre des ha<g ref="char:EOLhyphen"/>bitans n'estoit ence temps l'a qu'un million, aulieu qu'a <hi>Londres</hi> il y en a á present environ 700 mille, De plus le terrain enfermé dans les murailles de la vieille <hi>Rome</hi> n'estoit qu'une cercle de 3 miles de diame<g ref="char:EOLhyphen"/>tre, dont le plan est environ 7 miles quarrez &amp; les fauxbourgs ápeine une fois autant, en tout environ 13 miles quarrez, aulieu que ce qu'il ya de terrain occupé par les bati<g ref="char:EOLhyphen"/>mens de <hi>Londres</hi> est environ 9
+<pb n="20" facs="tcp:199217:25"/> miles quarrez comme nous l'avons dit, &amp; ces 2 sortes de proportions s'accordant l'une avec l'autre il semble par consequent que la vieil<g ref="char:EOLhyphen"/>le <hi>Rome</hi> n'estoit que de la moitié plus grande que <hi>Londres</hi> d'au<g ref="char:EOLhyphen"/>jourdhuy; ce que nous laissons a examiner aux antiquaires.</p>
+         </div>
+         <div n="2" xml:lang="eng" type="essay">
+            <pb n="13" facs="tcp:199217:18"/>
+            <head>The SECOND ESSAY.</head>
+            <p>AS for other Comparisons of <hi>London</hi> with <hi>Paris,</hi> we farther repeat and enlarge what hath been formerly said upon those matters, as followeth, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That 40 <hi>per Cent.</hi> die out of the Hospitals at <hi>Paris</hi> where so many die unnecessarily, and scarce 1/20 of that proportion out of the Ho<g ref="char:EOLhyphen"/>spitals of <hi>London,</hi> which have been shewn to be better than the best of <hi>Paris.</hi>
+            </p>
+            <p n="2">2. That at <hi>Paris</hi> 81280 Kit<g ref="char:EOLhyphen"/>chins, are within less than 24000
+<pb n="14" facs="tcp:199217:19"/> Street-dores, which makes less cleanly and convenient way of li<g ref="char:EOLhyphen"/>ving than at <hi>London.</hi>
+            </p>
+            <p n="3">3. Where the number of Christ<g ref="char:EOLhyphen"/>nings are near unto, or exceed the Burials, the People are poorer, ha<g ref="char:EOLhyphen"/>ving few Servants and little E<g ref="char:EOLhyphen"/>quipage.</p>
+            <p n="4">4. The River of <hi>Thames</hi> is more pleasant and navigable than the <hi>Seyne,</hi> and its Waters better and more wholesome; and the Bridge of <hi>London,</hi> is the most considerable of all <hi>Europe.</hi>
+            </p>
+            <p n="5">5. The Shipping and foreign Trade of <hi>London</hi> is incomparably greater than that at <hi>Paris</hi> and <hi>Rouen.</hi>
+            </p>
+            <p n="6">
+               <pb n="15" facs="tcp:199217:20"/> 6. The Lawyers Chambers at <hi>London</hi> have 2772 Chimnies in them, and are worth 240 thousand Pounds sterling, or 3 millions of French Livers, besides the dwellings of their Families elsewhere.</p>
+            <p n="7">7. The Air is more wholesome, for that at. <hi>London</hi> scarce 2 of 16 die out of the worst Hospitals, but at <hi>Paris</hi> above 2 of 15 out of the best. Moreover the Burials of <hi>Pa<g ref="char:EOLhyphen"/>ris</hi> are ⅕ part above and below the Medium, but at <hi>London</hi> not a<g ref="char:EOLhyphen"/>bove 1/12, so as the intemperiés of the Air at <hi>Paris</hi> is far greater than at <hi>London.</hi>
+            </p>
+            <p n="8">8. The Fuel cheaper, and lies in less room, the Coals being an
+<pb n="16" facs="tcp:199217:21"/> wholesome sulphurous bitumen.</p>
+            <p n="9">9. All the most necessary sorts of Victuals, and of Fish, are chea<g ref="char:EOLhyphen"/>per, and Drinks of all sorts in greater variety and plenty.</p>
+            <p n="10">10. The Churches of <hi>London</hi> we leave to be judg'd by thinking that nothing at <hi>Paris</hi> is so great as St. <hi>Paul</hi>'s was, and is like to be, nor so beautifull as <hi>Henry</hi> the seventh's Chapel.</p>
+            <p n="11">11. On the other hand, 'tis pro<g ref="char:EOLhyphen"/>bable, that there is more Money in <hi>Paris</hi> than <hi>London,</hi> if the publick Revenue (grosly speaking,
+<pb n="17" facs="tcp:199217:22"/> quadruple to that of <hi>England)</hi> be lodged there.</p>
+            <p n="12">12. <hi>Paris</hi> hath not been for these last 50 years so much infested with the Plague as <hi>London;</hi> now that at <hi>London</hi> the Plague (which between the year 1591 and 1666, made 5 returns, <hi>viz.</hi> every 15 years, at a Medium, and at each time carried away ⅕ of the People) hath not been known for the 21 years last past, and there is a vi<g ref="char:EOLhyphen"/>sible way by God's ordinary Blessing to lessen the same by ⅔ when it next appeareth.</p>
+            <p n="13">13. As to the Ground upon which <hi>Paris</hi> stands in respect of <hi>London,</hi> we say, that if there be 5 Stories
+<pb n="18" facs="tcp:199217:23"/> or Floors of Housing at <hi>Paris,</hi> for 4 at <hi>London,</hi> or in that propor<g ref="char:EOLhyphen"/>tion, then the 82 thousand Fami<g ref="char:EOLhyphen"/>lies of <hi>Paris</hi> stand upon the equi<g ref="char:EOLhyphen"/>valent of 65 thousand <hi>London</hi> Housteds, and if there be 115 thou<g ref="char:EOLhyphen"/>sand Families at <hi>London,</hi> and but 82 thousand at <hi>Paris,</hi> then the proportion of the <hi>London</hi> Ground to that of <hi>Paris</hi> is as 115 to 65, or as 23 to 13.</p>
+            <p n="14">14. Moreover <hi>Paris</hi> is said to be an Oval of 3 English Miles long and 2½ broad, the Area where<g ref="char:EOLhyphen"/>of contains but 5½ square Miles; but <hi>London</hi> is 7 Miles long, and 1¼ broad at a Medium, which makes an Area of near 9 square Miles, which proportion of 5½ to 9 differs little from that of 13 to 23.</p>
+            <p n="15">
+               <pb n="19" facs="tcp:199217:24"/> 15. <hi>Memorandum,</hi> That in <hi>Nero</hi>'s time, as Monsr. <hi>Chivreau</hi> reporteth, there died 300 thousand People of the Plague in Old <hi>Rome;</hi> Now if there died 3 of 10 then, and there, being a hotter Countrey, as there dies 2 of 10 at <hi>London,</hi> the number of People at that time, was but a million, whereas at <hi>Lon<g ref="char:EOLhyphen"/>don</hi> they are now about 700 thou<g ref="char:EOLhyphen"/>sand. Moreover the Ground with<g ref="char:EOLhyphen"/>in the Walls of Old <hi>Rome</hi> was a Circle but of 3 Miles diameter, whose Area is about 7 square Miles, and the Suburbs scarce as much more, in all about 13 square Miles, whereas the built Ground at <hi>Lon<g ref="char:EOLhyphen"/>don</hi> is about 9 square Miles as
+<pb n="20" facs="tcp:199217:25"/> aforesaid; which two sorts of pro<g ref="char:EOLhyphen"/>portions, agree with each other, and consequently Old <hi>Rome</hi> seems but to have been half as big again as the present <hi>London,</hi> which we offer to Antiquaries.</p>
+         </div>
+         <div n="3" xml:lang="fre" type="essay">
+            <pb n="21" facs="tcp:199217:26"/>
+            <head>TROISIEME ESSAY.</head>
+            <p>PReuves que le nombre des ha<g ref="char:EOLhyphen"/>bitans qui sont dans les 134 paroisses comprises dans les billets de mortalité de <hi>Londres,</hi> sans rap<g ref="char:EOLhyphen"/>port aux autres villes, est 696 <hi>m.</hi>
+            </p>
+            <p>Je ne connoisque trois ma<g ref="char:EOLhyphen"/>nieres de le faire.</p>
+            <p n="1">1. Par les maisons, les familles, &amp; les personnes qui les composent.</p>
+            <p n="2">2. Par le nombre des enterre<g ref="char:EOLhyphen"/>ments dans les années qui ont esté saines &amp; par la proportion des vi<g ref="char:EOLhyphen"/>vants aux mourants.</p>
+            <p n="3">
+               <pb n="22" facs="tcp:199217:27"/> 3. Par le nombre de ceux qui meurent de la peste dans les anneés de pestilence, a proportion de ceux qui en échappent.</p>
+            <div n="1" type="method">
+               <head>Premiere maniere.</head>
+               <p>Pour scavoir le nombre des mai<g ref="char:EOLhyphen"/>sons je me suis servi de 3 methodes.</p>
+               <p n="1">1. Du nombre des maisons qui furent bruleés l'an 1666, qui fut, par le rapport authentique qui en a esté fait, 13200, ensuite de la proportion de ceux qui sont morts dans ces maisons a vec le tout, que je trouve n'avoir esté l'année 1686 que 1/7 partie aulieu que l'année 1666 ils faisoient presque ⅕, d'ou j'infere que toutes les maisons de
+<pb n="23" facs="tcp:199217:28"/>
+                  <hi>Londres</hi> l'année 1666 étoient 66 mille, a pres quoy trouvant que les enterrements l'année 1666 e<g ref="char:EOLhyphen"/>stoient par rapport a ceux de 1686 comme 3 a 4, je m'arréte a 88 <hi>m.</hi> comme estant le nombre des mai<g ref="char:EOLhyphen"/>sons l'an 1686.</p>
+               <p n="2">2. Ceux qui ont esté employez a faire la carte generale de <hi>Londres</hi> publiée l'année 1682, m'ont assuré que cette année là ils avoient trou<g ref="char:EOLhyphen"/>vé qu'il y avoit a <hi>Londres</hi> plus de 84 <hi>m.</hi> maisons, ainsi l'année 1686, ou en 4 années davantage il peut y avoir 1/10 ou 8400 maisons de plus <hi>(Londres</hi> croissant au double en 40 ans) tellement que l'année 1686 le tout peut estre 92400.</p>
+               <p n="3">
+                  <pb n="24" facs="tcp:199217:29"/> 3. Je trouve que l'année 1685 il y avoit 29325 cheminées à <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> &amp; 6400 maisons, &amp; à <hi>Londres</hi> 388 <hi>m.</hi> cheminées &amp; selon cette pro<g ref="char:EOLhyphen"/>portion il faudroit qu'il y eut 87 <hi>m.</hi> maisons à <hi>Londres,</hi> d'ailleurs j'ay trouué qu'il y avoit à <hi>Bristol</hi> cette méme année 16752 cheminées &amp; &amp; 5307 maisons &amp; a <hi>Londres</hi> 388 <hi>m.</hi> cheminées, comme nous venons de dire, &amp; selon cette proportion il faudroit qu'il y eut à <hi>Londres</hi> 123 <hi>m.</hi> maisons, &amp; dans un medium entre ces 2 proportions de <hi>Dublin</hi> &amp; de <hi>Bristol</hi> 105 mille maisons.</p>
+               <p>Enfin par un certificat du greste des cheminées je trouve que les maisons comprises dans les billets de mortalité sont 105315.</p>
+               <pb n="25" facs="tcp:199217:30"/>
+               <p> Apres avoir ainsi trouvé le nom<g ref="char:EOLhyphen"/>bre des maisons, je viens au nom<g ref="char:EOLhyphen"/>bre des familles qui y demeurent, &amp; d'abord j'ay pensé que s'il y a<g ref="char:EOLhyphen"/>voit 3 ou 4 familles ou cuisines dans chaque maison de <hi>Paris,</hi> il pourroit bien y avoir deux famil<g ref="char:EOLhyphen"/>les dans 1/10 des maisons de <hi>Londres,</hi> &amp; en sela le sentiment commun de plusieurs de mes amis se trouve conforme a mes conjectures par<g ref="char:EOLhyphen"/>ticulieres pour cette supposition.</p>
+               <p>Quant au nombre des tetes pour chaque familles je m'attache a l'observation de <hi>Grant</hi> dans la p. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> de sa 5 edition, que dans les famil<g ref="char:EOLhyphen"/>les de gens de metier de <hi>Londres</hi> il ya 8 teres l'une portant l'autre, dans les familles d'un rang plus é<g ref="char:EOLhyphen"/>levé,
+<pb n="26" facs="tcp:199217:31"/> plus de 10, &amp; dans les plus pauvres plus de 5, suivant lesquel<g ref="char:EOLhyphen"/>les proportions je m'étois arrété dans une autre occasion a 6⅓ pour le medium des tétes qui sont dans toutes les familles d' <hi>Angleterre,</hi> mais en ce cas cy quittant la fracti<g ref="char:EOLhyphen"/>on j'aime mieux m'accorder avec Mr. <hi>Auzout</hi> pour 6.</p>
+               <p>Pour conclure y ayant a <hi>Lon<g ref="char:EOLhyphen"/>dres</hi> 105315 maisons, &amp; l'addition des familles doubles estant 10531 davantage, en tout 115846, je les ay multipliez par 6 ce qui a produit 695076 pour le nombre des habi<g ref="char:EOLhyphen"/>tans.</p>
+            </div>
+            <div n="2" type="method">
+               <head>Seconde maniere.</head>
+               <p>J'ay trouvé que les années 1684 &amp; 1685 se suivant l'une l'autre, &amp;
+<pb n="27" facs="tcp:199217:32"/> toutes deux saines, se sont merveil<g ref="char:EOLhyphen"/>leusement rapportées dans leurs en<g ref="char:EOLhyphen"/>terrements, y en ayant eu 23202 l'an 1684 &amp; 23222 l'an 1685, dont le medium est 23212. De plus que les batémes l'an 1684 estoient 14702 &amp; ceux d'année 1685 estoi<g ref="char:EOLhyphen"/>ent 14730, ainsi j'ay multiplié le medium des enterrements 23212 par 30 supposant qu'il en meurt un de 30 a <hi>Londres</hi> &amp; cela a pro<g ref="char:EOLhyphen"/>duit pour le nombre des habitans 696360 ames.</p>
+               <p>Maintenant pour prouver qu'il en meurt un de 30 à <hi>Londres</hi> ou environ, je dis.</p>
+               <p n="1">1. Que <hi>Grant</hi> duns la page de sa 5<seg rend="sup">e</seg> edition assure sur observation qu'il en mouroit 3 de 88 par an ce
+<pb n="28" facs="tcp:199217:33"/> qui est a peu prés la méme propor<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="2">2. J'ay trové que dans les lieu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sains &amp; d'entre les adultes il e<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> meurt beaucoup moins, &amp; particu<g ref="char:EOLunhyphen"/>lierement d'entre les membres du Parlement environ un de 50 seule<g ref="char:EOLunhyphen"/>ment, &amp; que les roys d' <hi>Angleterr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> ayant regné 24 ans l'un portan l'autre ils ont vécu probablemen<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> chacun plus de 30 ans.</p>
+               <p n="3">3. <hi>Grant</hi> dans la p. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> a fait voi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> que de 20 jeunes enfans au dessou de 10 ans il n'en meurt qu'un pa an &amp; Mr. <hi>Auzout</hi> croit qu'a <hi>Rome</hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> n'en meurt qu'un de 40 du gran<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nombre de personnes adultes qu'<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ya là c'est ce qui fait que je m'a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tache au nombre de 30 comme un medium.</p>
+               <p n="4">
+                  <pb n="29" facs="tcp:199217:34"/> 4. Je trouve que dans 9 parois<g ref="char:EOLhyphen"/>ses de la campagne situées en diffe<g ref="char:EOLhyphen"/>rens endroits d' <hi>Angleterre</hi> il n'en est mort qu'un de 37 par an ou 311 de 11507, c'est pourquoy jusques a ce que je voie un autre nombre rond fondé sur plusieurs observa<g ref="char:EOLhyphen"/>tions plus prés que 30 je crois avoir assés bien fait de multiplier nos en<g ref="char:EOLhyphen"/>enterremens par 30 pour trouver le nombre du peuple dont le pro<g ref="char:EOLhyphen"/>duit est 696360, &amp; par les familles nous en trouvons 695076 comme nous avons dit.</p>
+            </div>
+            <div n="3" type="method">
+               <head>Troisiéme maniere.</head>
+               <p>
+                  <hi>Grant</hi> a prouvé qu'il mouroit ⅕ des habitans de la peste, or l'année 1665 il en mourut de la peste prés
+<pb n="30" facs="tcp:199217:35"/> de 98 mille dont le quintuple est 490 <hi>m.</hi> comme le nombres des ha<g ref="char:EOLhyphen"/>bitans dans l'anneé 1665, a quoy ajoutant plus d'un tiers comme l'augmentation entre les anneés 1665 &amp; 1686; le total est 653 mille ce qui s'accorde assés bien avec les deux autres contes cy dessus.</p>
+               <p>Ainsi tenons nous en a la pro<g ref="char:EOLhyphen"/>portion d'un a 30 jusqu'a ce qu'on puisse en établir une meilleure.</p>
+               <p>Il est à remarquer que 2 ou 3 cent maisons nouvelles feroient une contiguité de 2 ou 3 autres grandes paroisses avec les 134 qu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sont de ja comprises dans les billets de mortalité, &amp; qu'une muraille o<g ref="char:EOLhyphen"/>vale d'environ 20 mille de tour en
+<pb n="31" facs="tcp:199217:36"/> fermeroit tout cela &amp; tous les vais<g ref="char:EOLhyphen"/>seaux qui sont à <hi>Depfort</hi> &amp; à <hi>Black<g ref="char:EOLhyphen"/>wall</hi> &amp; comprendroit aussi dans cette méme enceinte 20 mille acres de terre, &amp; jetteroient le fonde<g ref="char:EOLhyphen"/>ment de plusieurs avantages tres considerables pour les proprietaires &amp; les habitans de ce terrain aussi bi<g ref="char:EOLhyphen"/>en que pour toute la nation &amp; le gouvernement.</p>
+            </div>
+         </div>
+         <div n="3" xml:lang="eng" type="essay">
+            <pb n="21" facs="tcp:199217:26"/>
+            <head>The THIRD ESSAY.</head>
+            <p>PRoofs that the number of Peo<g ref="char:EOLhyphen"/>ple in the 134 Parishes of the <hi>London</hi> Bills of Mortality, without reference to other Cities, is about 696 thousand, <hi>viz.</hi>
+            </p>
+            <p>I know but three ways of finding the same.</p>
+            <p n="1">1. By the Houses, and Families, and Heads living in each.</p>
+            <p n="2">2. By the number of Burials in healthfull times, and by the pro<g ref="char:EOLhyphen"/>portion of those that live, to those that die.</p>
+            <p n="3">
+               <pb n="22" facs="tcp:199217:27"/> 3. By the number of those who die of the Plague in Pestilential years, in proportion to those that scape.</p>
+            <div n="1" type="method">
+               <head>The First way.</head>
+               <p>To know the number of Houses I used three methods, <hi>viz.</hi>
+               </p>
+               <p n="1">1. The number of Houses which were burnt <hi>Anno</hi> 1666, which by authentick Report was 13200; next what proportion the People who dy<g ref="char:EOLhyphen"/>ed out of those Houses, bore to the whole; which I find <hi>Anno</hi> 1686, to be but 1/7 part, but <hi>Anno</hi> 1666 to be almost ⅕, from whence I in<g ref="char:EOLhyphen"/>fer the whole Housing of <hi>London</hi>
+                  <pb n="23" facs="tcp:199217:28"/>
+                  <hi>Anno</hi> 1666 to have been 66 thou<g ref="char:EOLhyphen"/>sand, then finding the Burials <hi>An<g ref="char:EOLhyphen"/>no</hi> 1666 to be to those of 1686 as 3 to 4, I pitch upon 88 thousand to be the number of Housing <hi>An<g ref="char:EOLhyphen"/>no</hi> 1686.</p>
+               <p n="2">2. Those who have been employ<g ref="char:EOLhyphen"/>ed in making the general Map of <hi>London,</hi> set forth in the year 1682, told me that in that year, they had found above 84 thousand Houses to be in <hi>London,</hi> where<g ref="char:EOLhyphen"/>fore <hi>Anno</hi> 1686, or in 4 years more, there might be 1/10 or 8400 Houses more <hi>(London</hi> doubling in 40 years) so as the whole, <hi>Anno</hi> 1686 might be 92400.</p>
+               <p n="3">
+                  <pb n="24" facs="tcp:199217:29"/> 3. I found that <hi>Anno</hi> 1685, there were 29325 Harths in <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> and 6400 Houses, and in <hi>London</hi> 388 thousand Harths, whereby there must have been at that rate 87000 Houses in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> Moreover I found that in <hi>Bristol</hi> there were in the same year 16752 Harths, and 5307 Hou<g ref="char:EOLhyphen"/>ses, and in <hi>London</hi> 388 thousand Harths as aforesaid; at which rate there must have been 123 thousand Houses in <hi>London,</hi> and at a Me<g ref="char:EOLhyphen"/>dium between <hi>Dublin</hi> and <hi>Bristol</hi> proportions 105 thousand Houses.</p>
+               <p>Lastly, By Certificate from the Harth-Office, I find the Houses within the Bills of Mortality to be 105▪315.</p>
+               <pb n="25" facs="tcp:199217:30"/>
+               <p> Having thus found the Houses, I proceed next to the number of Families in them, and first I thought that if there were 3 or 4 Families or Kitchins in every House of <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> there might be 2 Families in 1/10 of the Housing of <hi>London;</hi> un<g ref="char:EOLhyphen"/>to which supposition, the common opinion of several Friends, doth concur with my own conjectures.</p>
+               <p>As to the number of Heads in each Family, I stick to <hi>Grant</hi>'s observation in Page of his fifth Edition, That in Tradesmen of <hi>London</hi>'s Families, there be 8 Heads one with another, in Fa<g ref="char:EOLhyphen"/>milies of higher Ranks, above 10,
+<pb n="26" facs="tcp:199217:31"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd in the poorest near 5, accor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing to which proportions, I had <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pon another occasion pitch'd the medium of Heads in all the Fami<g ref="char:EOLhyphen"/>lies of <hi>England</hi> to be 6⅓, but <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uitting the Fraction in this Case, I agree with Monsieur <hi>Auzout</hi> for 6.</p>
+               <p>To conclude, the Houses of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> being 105315, and the addi<g ref="char:EOLhyphen"/>tion of double Families 10531 more, in all 115846; I multiplied the same by 6, which produced 695076 for the number of the People.</p>
+            </div>
+            <div n="2" type="method">
+               <head>The Second way.</head>
+               <p>I found that the years 1684 and 1685, being next each other, and
+<pb n="27" facs="tcp:199217:32"/> both healthfull, did wonderfully a<g ref="char:EOLhyphen"/>gree in their Burials, <hi>viz.</hi> 1684 <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hey were 23202, and <hi>Anno</hi> 1685 23222, the Medium whereof is 23212; Moreover that the Christ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ings 1684 were 14,702, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hose <hi>Anno</hi> 1685 were 14730, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>herefore I multiplied the Medium <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f Burials 23212 by 30, supposing <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat one dies out of 30 at <hi>London,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hich made the number of People 696360 Souls.</p>
+               <p>Now to prove that one dies out <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f 30 at <hi>London,</hi> or thereabouts, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> say,</p>
+               <p n="1">1. That <hi>Grant</hi> in the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> page of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>is fifth Edition, affirmeth from observation, that 3 died of 88 <hi>per</hi>
+                  <pb n="28" facs="tcp:199217:33"/>
+                  <hi>an.</hi> which is near the same propor<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="2">2. I found that out of health<g ref="char:EOLhyphen"/>full places, and out of adult persons, there dies much fewer, as but 1 out of 50 among our Parliament men, and that the Kings of <hi>England</hi> ha<g ref="char:EOLhyphen"/>ving reigned 24 years one with a<g ref="char:EOLhyphen"/>nother, probably lived above 30 years each.</p>
+               <p n="3">3. <hi>Grant,</hi> page <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> hath shewn that but about 1 of 20 die <hi>per an.</hi> out of young Children under 10 years old, and Monsr. <hi>Auzout</hi> thinks that but 1 of 40 die at <hi>Rome,</hi> out of the greater proportion of adult persons there, wherefore we still stick at a Medium to the number 30.</p>
+               <p n="4">
+                  <pb n="29" facs="tcp:199217:34"/> 4. In 9 Countrey Parishes lying in several parts of <hi>England,</hi> I find that but one of 37 hath died <hi>per an.</hi> or 311 out of 11507, where<g ref="char:EOLhyphen"/>fore till I see another round num<g ref="char:EOLhyphen"/>ber, grounded upon many observa<g ref="char:EOLhyphen"/>tions, nearer than 30, I hope to have done pretty well in multiply<g ref="char:EOLhyphen"/>ing our Burials by 30, to find the number of the People, the product being 696, 360, and what we find by the Families they are 695, 076, as aforesaid.</p>
+            </div>
+            <div n="3" type="method">
+               <head>The Third way.</head>
+               <p>It was prov'd by <hi>Grant,</hi> that ⅕ of the People died of the Plague, but <hi>Anno</hi> 1665 there died of the
+<pb n="30" facs="tcp:199217:35"/> Plague near 98 thousand persons, the Quintuple whereof is 490 thou<g ref="char:EOLhyphen"/>sand, as the number of People in the year 1665, whereunto adding above ⅓, as the increase between 1665 and 1686, the total is 653 thousand, agreeing well enough with the other two Computations above mentioned.</p>
+               <p>Wherefore let the proportion of 1 to 30 continue till a better be put in its place.</p>
+               <p>
+                  <hi>Memorandum,</hi> That 2 or 3 hundred new Houses would make a Contiguity of 2 or 3 other great Pa<g ref="char:EOLhyphen"/>rishes, with the 134 already men<g ref="char:EOLhyphen"/>tioned in the Bills of Mortality; and that an oval Wall of about 20 Miles in compass would enclose the
+<pb n="31" facs="tcp:199217:36"/> same, and all the Shipping at <hi>Dept<g ref="char:EOLhyphen"/>ford</hi> and <hi>Black-wall,</hi> and would also fence in 20 thousand Acres of Land, and lay the foundation or designation of several vast advan<g ref="char:EOLhyphen"/>tages to the Owners, and Inhabi<g ref="char:EOLhyphen"/>tants of that Ground, as also to the whole Nation and Government.</p>
+            </div>
+         </div>
+         <div n="4" xml:lang="fre" type="essay">
+            <pb n="32" facs="tcp:199217:37"/>
+            <head>QƲATRIEME ESSAY.</head>
+            <argument>
+               <p>De la proportion des habitans des huit plus considerables Villes de la Chrestiente.</p>
+            </argument>
+            <p n="1">1. PAR le nombre des enterre<g ref="char:EOLhyphen"/>mens dans les anneés qui ont esté saines, par la proportion des vivans a ceux qui meurent tous les ans, comme aussi par le nombre des maisons &amp; des familles qui se trouvent dans les 134 paroisses ap<g ref="char:EOLhyphen"/>pelleés <hi>Londres</hi> &amp; par le nombre des tétes que l'on estime qu'il y a dans chacune, nous nous sommes arrétez a 695718 comme au me<g ref="char:EOLhyphen"/>dium du nombre des habitans de cette ville.</p>
+            <p n="2">
+               <pb n="33" facs="tcp:199217:38"/> 2. En demeurant daccord qu'il ya a <hi>Paris</hi> plus de 80 mille familles a sçavoir 81280 qui demeurent en 23223 maisons 32 hotels &amp; 38 col<g ref="char:EOLhyphen"/>leges, ou qu'il y a 81280 cuisines dans moins de 24 mille portes sur la rue, en mettant aussi 30 tétes pour chacun de ceux qui y meu<g ref="char:EOLhyphen"/>rent par necessité nous avons pris pour medium des habitans qui s'y trouvent 488055, &amp; nous ne les a<g ref="char:EOLhyphen"/>vons pas restraint a 300 <hi>m.</hi> en met<g ref="char:EOLhyphen"/>tant avec Mr. <hi>Auzout</hi> 6 tétes pour chucune des 50 <hi>m.</hi> maisons ou fa<g ref="char:EOLhyphen"/>milles de <hi>Moreri.</hi>
+            </p>
+            <p n="3">3. A <hi>Amsterdam</hi> nous mettons 187350 ames asçavoir 30 fois le nombre de leurs enterremens qui estoient 6245 l'année 1685.</p>
+            <p n="4">
+               <pb n="34" facs="tcp:199217:39"/> 4. Nous mettons a <hi>Venise</hi> 134 mille ames selon que cela se trou<g ref="char:EOLhyphen"/>va par un conte special fait par au<g ref="char:EOLhyphen"/>thorité il y a environ 10 ans lors<g ref="char:EOLhyphen"/>que cette ville se trouvoit pleine de gens qui retournoient de <hi>Candie</hi> que venoit de se rendre aux <hi>Turcs.</hi>
+            </p>
+            <p n="5">5. Nous mettons a <hi>Rome</hi> 119 <hi>m.</hi> chrétiens &amp; 6000 juifs en tout 125 <hi>m.</hi> ames suivant le conte qu'en a en<g ref="char:EOLhyphen"/>voyé icy Mr. <hi>Auzout.</hi>
+            </p>
+            <p n="6">6. Nous mettons a <hi>Dublin</hi> com<g ref="char:EOLhyphen"/>me à <hi>Amsterdam</hi> 30 fois ses enterre<g ref="char:EOLhyphen"/>mens dont le medium pour les 2 dernieres anneées est 2303 c'est à dire 69090 ames.</p>
+            <p n="7">
+               <pb n="35" facs="tcp:199217:40"/> 7. A L'egard de <hi>Bristol</hi> nous di<g ref="char:EOLhyphen"/>sons que si les 6400 maisons de <hi>Dublin</hi> donnent 69090 ames, il faut que les 5307 maisons de <hi>Bri<g ref="char:EOLhyphen"/>stol</hi> donnent plus de 56 <hi>m.</hi> habitans. Dailleurs si les 29325 cheminées de <hi>Dublin</hi> donnent 69090 habitans les 16752 cheminées de <hi>Bristol</hi> en donneront environ 40 mille mais le medium de 56 mille &amp; 40 mille est 48 mille.</p>
+            <p n="8">8. Pour ce qui est de <hi>Rouen</hi> nous ne scaurions nous en rapporter qu'a la penseé de Mr. <hi>Auzout</hi> qu'il ya dans cette ville là 80 <hi>m.</hi> ames &amp; a la conjecture d'habiles gens que <hi>Rouen</hi> est entre 1/7 &amp; ⅛ partie de <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> &amp; qu'il est d'un tiers plus grand que <hi>Bristol,</hi> par toutes lesquelles
+<pb n="36" facs="tcp:199217:41"/> choses nous estimons, jus qu'a c<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> que nous ayous de nouvelles lum<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>eres, qu'il ya à <hi>Rouen</hi> au plus 66 <hi>
+                  <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> habitans.</p>
+            <p>On pourroit maintenant s'éto<g ref="char:EOLunhyphen"/>ner pourquoy ayant si peu de con<g ref="char:EOLunhyphen"/>noissance de <hi>Rouen</hi> nous en avou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> fait aucune mention, a quoy nou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> répondons, que nous n'avons pa<g ref="char:EOLunhyphen"/>crù qu'il fut juste de comparer <hi>Lon<g ref="char:EOLunhyphen"/>dres</hi> avec <hi>Paris</hi> pour ce qui regard<gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> les vaisseaux &amp; le commerce etran<g ref="char:EOLunhyphen"/>ger sans y ajouter <hi>Rouen, Rouen</hi> e<g ref="char:EOLunhyphen"/>stant a l'égard de <hi>Paris</hi> ce que cett<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> partie de <hi>Londres</hi> qui est au dessou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> du pont est a l'égard de celle qui es<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> au dessus.</p>
+            <p>Toutes les quelles choses nou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> soumettons de bon coeur a la cor<g ref="char:EOLunhyphen"/>rection
+<pb n="37" facs="tcp:199217:42"/> des personnes curieuses &amp; sinceres, faisant cependant nos observations selon les nombres grossiers que nous allons marquer.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">m.</cell>
+                  </row>
+                  <row>
+                     <cell>Londrez</cell>
+                     <cell>696</cell>
+                  </row>
+                  <row>
+                     <cell>Paris</cell>
+                     <cell>488</cell>
+                  </row>
+                  <row>
+                     <cell>Amsterdam</cell>
+                     <cell>187</cell>
+                  </row>
+                  <row>
+                     <cell>Venise</cell>
+                     <cell>134</cell>
+                  </row>
+                  <row>
+                     <cell>Rome</cell>
+                     <cell>125</cell>
+                  </row>
+                  <row>
+                     <cell>Dublin</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>Bristol</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Rouen</cell>
+                     <cell>66</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="calculations">
+               <pb n="38" facs="tcp:199217:43"/>
+               <head>
+                  <hi>Observations sur ces</hi> 8 <hi>Villes.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>m.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1. Que les habit. de <hi>Paris</hi> estant</cell>
+                        <cell>488</cell>
+                     </row>
+                     <row>
+                        <cell>ceux de <hi>Rome</hi>
+                        </cell>
+                        <cell>125</cell>
+                     </row>
+                     <row>
+                        <cell>ceux de <hi>Rouen</hi>
+                        </cell>
+                        <cell>66</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">ne font en tout que 741 mille, ou 17 mille moins que les 696 mille de <hi>Londres</hi> seul.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="2">2. Que les habitans des 2 Villes ou Emporiums d'<hi>Angleterre</hi> a sça<g ref="char:EOLhyphen"/>voir les 696 mille de <hi>Londres</hi> &amp; les 48 <hi>m.</hi> de <hi>Bristol</hi> font 744 <hi>m.</hi> ou plus</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>qu'a</hi> Paris</cell>
+                        <cell>488</cell>
+                     </row>
+                     <row>
+                        <cell>Amsterdam</cell>
+                        <cell>187</cell>
+                     </row>
+                     <row>
+                        <cell>Rouen</cell>
+                        <cell>66</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>faisant</hi>
+                        </cell>
+                        <cell>741</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="3">
+                  <pb n="39" facs="tcp:199217:44"/> 3. Que ces 2 mémes villes d'<hi>An<g ref="char:EOLhyphen"/>gleterre</hi> semblent equivalentes</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>a</hi> Paris <hi>quia</hi>
+                        </cell>
+                        <cell>488 mille ames.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>a</hi> Rouen</cell>
+                        <cell>66</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>a</hi> Lyon</cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>a</hi> Thoulouse</cell>
+                        <cell>90</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>en tout</hi>
+                        </cell>
+                        <cell>744 m.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>S'il y a quelque erreur dans ces contes des villes de <hi>France</hi> nous esperons estre redressez par ceux que nous apprenous qui travail<g ref="char:EOLhyphen"/>lent sur ce sujet.</p>
+               <p n="4">
+                  <pb n="40" facs="tcp:199217:45"/> 4. Que les trois villes du Roy d' <hi>Angleterre</hi> a sçavoit</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                     </row>
+                     <row>
+                        <cell>Londres</cell>
+                        <cell>696</cell>
+                        <cell rows="3">
+                           <hi>excedent</hi>
+                        </cell>
+                        <cell>Paris</cell>
+                        <cell>488</cell>
+                     </row>
+                     <row>
+                        <cell>Dublin</cell>
+                        <cell>69</cell>
+                        <cell>Amsterdam</cell>
+                        <cell>187</cell>
+                     </row>
+                     <row>
+                        <cell>Bristol</cell>
+                        <cell>48</cell>
+                        <cell>Venise</cell>
+                        <cell>134</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>813</cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>ne faisant que</hi>
+                        </cell>
+                        <cell>809</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="5">5. Que des 4 grands Empori<g ref="char:EOLhyphen"/>ums <hi>Londres, Amsterdam, Venise</hi> &amp; <hi>Rouen, Londres</hi> seul est presque le double des 3 autres asçavoir plus que 7 a 4.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Amsterdam</cell>
+                        <cell>187</cell>
+                        <cell role="label">m.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Venise</cell>
+                        <cell>134</cell>
+                        <cell>387</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Rouen</cell>
+                        <cell>66</cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>774</cell>
+                        <cell>London</cell>
+                        <cell>696</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="6">
+                  <pb n="41" facs="tcp:199217:46"/> 6. Que <hi>Londres,</hi> par ce qui pa<g ref="char:EOLhyphen"/>roit, est la plus grande &amp; la plus considerable ville du monde, mais manifestement le plus grand Em<g ref="char:EOLhyphen"/>porium.</p>
+               <p>Quand ces assertions auront es<g ref="char:EOLhyphen"/>suyé la critique, l'on fera voir par un autre essay quel usage on pour<g ref="char:EOLhyphen"/>ra faire de ces veritez pour L'hon<g ref="char:EOLhyphen"/>neur &amp; le profit du Roy &amp; du Royaume d' <hi>Angleterre.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="4" xml:lang="eng" type="essay">
+            <pb n="32" facs="tcp:199217:37"/>
+            <head>The FOURTH ESSAY.</head>
+            <argument>
+               <p>
+                  <hi>Concerning the proportions of People in the 8 eminent Cities of Christendom undernamed,</hi> viz.</p>
+            </argument>
+            <p n="1">1. WE have by the number of Burials in healthfull years, and by the proportion of the living to those who die yearly, as also by the number of Houses and Families within the 134 Parishes, called <hi>London,</hi> and the estimate of the Heads in each, pitch'd upon the number of People in that City to be at a Medium 695718.</p>
+            <p n="2">
+               <pb n="33" facs="tcp:199217:38"/> 2. We have, by allowing that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t <hi>Paris</hi> above 80 thousand Fami<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ies <hi>(viz.</hi> 81280) do live in 23223 Houses, 32 Palaces, and 38 Colle<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es, or that there are 81280 Kitch<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ns within less than 24 thousand Street-dores; as also by allowing 30 Heads for every one that died <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ecessarily there; we have pitch'd <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pon the number of People there at <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Medium to be 488055, nor have <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e restrained them to 300 thousand, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y allowing with Monsr. <hi>Auzout</hi> 6 Heads for each of <hi>Morery</hi>'s 50 <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>housand Houses or Families.</p>
+            <p n="3">3. To <hi>Amsterdam</hi> we allow 187350 Souls, <hi>viz.</hi> 30 times the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>umber of their Burials, which were 6245 in the year 1685.</p>
+            <p n="4">
+               <pb n="34" facs="tcp:199217:39"/> 4. To <hi>Venice</hi> we allow 134 thou<g ref="char:EOLhyphen"/>sand Souls, as found there in a spe<g ref="char:EOLhyphen"/>cial account taken by authority, a<g ref="char:EOLhyphen"/>bout 10 years since, when the City abounded with such as returned from <hi>Candia,</hi> then surrended to the <hi>Turks.</hi>
+            </p>
+            <p n="5">5. To <hi>Rome</hi> we allow 119 thou<g ref="char:EOLhyphen"/>sand Christians and 6000 Jews, in all 125 thousand Souls, according to an account sent hither of the same by Monsr. <hi>Auzout.</hi>
+            </p>
+            <p n="6">6. To <hi>Dublin</hi> we allow (as to <hi>Amsterdam)</hi> 30 times its Burials, the Medium whereof for the last 2 years is 2303, <hi>viz.</hi> 69090 Souls.</p>
+            <p n="7">
+               <pb n="35" facs="tcp:199217:40"/> 7. As to <hi>Bristol,</hi> we say that if <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he 6400 Houses of <hi>Dublin,</hi> give <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>9,090 People, that the 5307 Hou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es of <hi>Bristol,</hi> must give above 56 <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>housand People; Moreover, if the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f the 29,325 Harths of <hi>Dublin,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ive 69,090 People, the 16,752 Harths of <hi>Bristol,</hi> must give about <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>0 thousand; but the Medium of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>6 thousand and 40 thousand is <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>8 thousand.</p>
+            <p n="8">8. As for <hi>Rouen,</hi> we have no help, but Monsr. <hi>Auzout</hi>'s fancy of 80 thousand Souls to be in that Ci<g ref="char:EOLhyphen"/>ty, and the conjecture of knowing Men that <hi>Rouen</hi> is between the 1/7 and ⅛ part of <hi>Paris,</hi> and also that it is by a third bigger than <hi>Bristol;</hi> By all which, we estimate
+<pb n="36" facs="tcp:199217:41"/> (till farther light) that <hi>Rouen</hi> hath at most but 66 thousand Peo<g ref="char:EOLhyphen"/>ple in it.</p>
+            <p>Now it may be wondred why we mentioned <hi>Rouen</hi> at all, having had so little knowledge of it; Where<g ref="char:EOLhyphen"/>unto we answer, that we did not think it just to compare <hi>London</hi> with <hi>Paris,</hi> as to Shipping and fo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eign Trade, without adding <hi>Rou<g ref="char:EOLhyphen"/>en</hi> thereunto, <hi>Rouen</hi> being to <hi>Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>is</hi> as that part of <hi>London</hi> which <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s below the Bridge, is to what is <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bove it.</p>
+            <p>All which we heartily submit to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he correction of the Curious and
+<pb n="37" facs="tcp:199217:42"/> Candid, in the mean time obser<g ref="char:EOLhyphen"/>ving according to the Gross numbers undermentioned.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">m.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>London</hi>
+                     </cell>
+                     <cell>696</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paris</hi>
+                     </cell>
+                     <cell>488</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Amsterdam</hi>
+                     </cell>
+                     <cell>187</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Venice</hi>
+                     </cell>
+                     <cell>134</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rome</hi>
+                     </cell>
+                     <cell>125</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dublin</hi>
+                     </cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bristoll</hi>
+                     </cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rouen</hi>
+                     </cell>
+                     <cell>66</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="calculations">
+               <pb n="38" facs="tcp:199217:43"/>
+               <head>
+                  <hi>Observations on the said</hi> 8 <hi>Cities.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                     </row>
+                     <row>
+                        <cell>1. That the People of <hi>Paris</hi> being</cell>
+                        <cell>488</cell>
+                     </row>
+                     <row>
+                        <cell>of <hi>Rome</hi>
+                        </cell>
+                        <cell>125</cell>
+                     </row>
+                     <row>
+                        <cell>of <hi>Rouen</hi>
+                        </cell>
+                        <cell>66</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">do make in all but 679 thousand, or 17 thousand less than the 696 thousand of <hi>London</hi> alone.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="2">2. That the People of the 2 En<g ref="char:EOLhyphen"/>glish Cities and Emporiums, <hi>viz.</hi> of <hi>London</hi> 696 thousand, and <hi>Bristol</hi> 48 thousand, do make 744 thousand, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r more than</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                     </row>
+                     <row>
+                        <cell>In <hi>Paris</hi>
+                        </cell>
+                        <cell>488</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Amsterdam</hi>
+                        </cell>
+                        <cell>187</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rouen</hi>
+                        </cell>
+                        <cell>66</cell>
+                     </row>
+                     <row>
+                        <cell>being in all</cell>
+                        <cell>741</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="3">
+                  <pb n="39" facs="tcp:199217:44"/> 3. That the same 2 English Ci<g ref="char:EOLhyphen"/>ties seem equivalent</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>To <hi>Paris</hi> which hath</cell>
+                        <cell>488 thous. Souls.</cell>
+                     </row>
+                     <row>
+                        <cell>To <hi>Rouen</hi>
+                        </cell>
+                        <cell>66</cell>
+                     </row>
+                     <row>
+                        <cell>To <hi>Lyons</hi>
+                        </cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell>To <hi>Thoulose</hi>
+                        </cell>
+                        <cell>90</cell>
+                     </row>
+                     <row>
+                        <cell>In all</cell>
+                        <cell>744</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>If there be any Errour in these Conjectures concerning these Cities of <hi>France,</hi> we hope they will be mended by those whom we hear to be now at work upon that matter.</p>
+               <p n="4">
+                  <pb n="40" facs="tcp:199217:45"/> 4. That the King of <hi>England</hi>'s 3 Cities, <hi>viz.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>London</hi>
+                        </cell>
+                        <cell>696</cell>
+                        <cell rows="3">
+                           <hi>exceed</hi>
+                        </cell>
+                        <cell>
+                           <hi>Paris</hi>
+                        </cell>
+                        <cell>488</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dublin</hi>
+                        </cell>
+                        <cell>69</cell>
+                        <cell>
+                           <hi>Amsterdam</hi>
+                        </cell>
+                        <cell>187</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bristoll</hi>
+                        </cell>
+                        <cell>48</cell>
+                        <cell>
+                           <hi>Venice</hi>
+                        </cell>
+                        <cell>134</cell>
+                     </row>
+                     <row>
+                        <cell>in all</cell>
+                        <cell>813</cell>
+                        <cell> </cell>
+                        <cell>being but</cell>
+                        <cell>809</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="5">5. That of the 4 great Empori<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ms, <hi>London, Amsterdam, Venice</hi> and <hi>Rouen, London</hi> alone is near double to the other 3, <hi>viz.</hi> above 7 to 4.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Amsterdam</hi>
+                        </cell>
+                        <cell>187</cell>
+                        <cell role="label">m.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Venice</hi>
+                        </cell>
+                        <cell>134</cell>
+                        <cell>387</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rouen</hi>
+                        </cell>
+                        <cell>66</cell>
+                        <cell>2</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">m.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell>774</cell>
+                        <cell>
+                           <hi>Lond.</hi>
+                        </cell>
+                        <cell>696</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="6">
+                  <pb n="41" facs="tcp:199217:46"/> 6. That <hi>London</hi> (for ought ap<g ref="char:EOLhyphen"/>pears) is the greatest and most con<g ref="char:EOLhyphen"/>siderable City of the World, but manifestly the greatest Emporium.</p>
+               <p>When these Assertions have past the <hi>Examen</hi> of the Critiques, we shall make another Essay, shewing how to apply those Truths to the Ho<g ref="char:EOLhyphen"/>nour and Profit of the King and Kingdom of <hi>England.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="5" xml:lang="fre" type="essay">
+            <pb n="42" facs="tcp:199217:47"/>
+            <head>CINQƲIEME ESSAY.</head>
+            <argument>
+               <p>
+                  <hi>Touchant la</hi> Hollande <hi>&amp; le reste des</hi> Provinces Unies.</p>
+            </argument>
+            <p>DEpuis que cet écrit a esté a<g ref="char:EOLhyphen"/>chevé on a objecté de <hi>Hol<g ref="char:EOLhyphen"/>lande</hi> qu'il n'y a pas d'apparence que ce que nous avons dit du nom<g ref="char:EOLhyphen"/>bre des maisons &amp; des habitans de <hi>Londres</hi> soit vray car s'il l'e<g ref="char:EOLhyphen"/>stoit <hi>Londres</hi> seroit donc les ⅔ de toute la province de <hi>Hollande.</hi> A quoy on répond que <hi>Londres</hi> est les ⅔ de toute la <hi>Hollande</hi> &amp; plus, cette Province n'ayant pas un million 44 <hi>m.</hi> habitans dont 696 <hi>m.</hi> font les ⅔, ny pas plus de 800 <hi>m.</hi> comme
+<pb n="43" facs="tcp:199217:48"/> nous l'avons souvent oui dire de fort bonne part, car supposé qu' <hi>Am<g ref="char:EOLhyphen"/>sterdam</hi> comme nous l'avons re<g ref="char:EOLhyphen"/>marqué ailleurs ait 187 <hi>m.</hi> les 7 grandes villes suivantes, à 30 l'une portant l'autre, 210 <hi>m.</hi> les 10 sui<g ref="char:EOLhyphen"/>vantes à 15 <hi>m.</hi> chacune, 150 <hi>m.</hi> les 10 plus petites a 6 <hi>m.</hi> chacune, 60 mille, dans toutes les 28 villes fer<g ref="char:EOLhyphen"/>mées de <hi>Hollande</hi> 607 <hi>m.</hi> dans les bourgs &amp; les villages 193 <hi>m.</hi> ce qui est environ une téte pour 4 acres de terre au lieu qu'en <hi>Angleterre</hi> il ya 8 acres pour chaque téte hors des villes.</p>
+            <p>Maintenant supposé que <hi>Lon<g ref="char:EOLhyphen"/>dres</hi> ayant 116 <hi>m.</hi> familles il y eut 7 tétes dans chacune, ce qui est le medium entre le conte de Mr. <hi>Au<g ref="char:EOLhyphen"/>zout</hi> &amp; celui de <hi>Grant,</hi> le total des
+<pb n="44" facs="tcp:199217:49"/> habitans seroit 812 <hi>m.</hi> ou bien si nous contons qu'il en meurt un de 34, le medium entre 30 &amp; 37, comme nous avons dit cy dessus, le total des habitans sera 34 fois 23212, c'est adire 789208, le me<g ref="char:EOLhyphen"/>dium entre ce nombre &amp; les 812<hi>m.</hi> susdits est 800604 excédant de quelque peu 800 <hi>m.</hi> que l'on sup<g ref="char:EOLhyphen"/>pose estre le nombre de la <hi>Hollande.</hi>
+            </p>
+            <p>Je dis de plus qu'ayant fait au<g ref="char:EOLhyphen"/>trefois plusieurs recherches tou<g ref="char:EOLhyphen"/>chant le peuplement du monde, je n'ay jamais trouvé qu'il y eut en aucun pays, non pas méme dans la chine plus d'un homme pour chaque acre de terre mesure d'<hi>An<g ref="char:EOLhyphen"/>gleterre</hi> plusieurs pays passant pour bien peuplez ou il n'y a qu'un homme pour 10 de ces acres j'ay
+<pb n="45" facs="tcp:199217:50"/> trouvé én mesurant la <hi>Hollande</hi> &amp; la <hi>West-Frize</hi> autrement <hi>Northolland</hi> sur les milleures cartes qu'elle ne contient qu'autant de ces acres qu'il ya de monde a <hi>Londres,</hi> c'est a dire environ 696 <hi>m.</hi> acres cest pourquoy je ne feray point de dif<g ref="char:EOLhyphen"/>ficulté d'avancer, jusques a ce que je sois mieux informé, qu'il ya au<g ref="char:EOLhyphen"/>tant de monde a <hi>Londres</hi> qu'en <hi>Hol<g ref="char:EOLhyphen"/>lande,</hi> ou du moins plus des des ⅔, ce qui suffit pou rendre vaine l'ob<g ref="char:EOLhyphen"/>jection cy déssus, sans qu'il soit ne<g ref="char:EOLhyphen"/>cessaire de se mettre en peine de faire monter le nombre des habi<g ref="char:EOLhyphen"/>tans de <hi>Londres</hi> de 696 <hi>m.</hi> a 800 <hi>m.</hi> quoy qu'on eut des raisons suffisan<g ref="char:EOLhyphen"/>tes pour le faire, &amp; que l'autheur de l'excellente carte de <hi>Londres</hi> pub<g ref="char:EOLhyphen"/>lieé l'an 1682, conte (comme on le peut voir par cette carte) qu'il y a
+<pb n="46" facs="tcp:199217:51"/> dans cette ville 1200 <hi>m.</hi> habitans, lors méme qu'il n'y avoit que 85 mille maisons.</p>
+            <p>La personne qui fait cette objec<g ref="char:EOLhyphen"/>tion dit aussi dans la méme Lettre.</p>
+            <p>1. Qu'il ya autant de monde dans la Province de <hi>Hollande</hi> que dans les 6 autres Provinces unies ensemble, &amp; la moitié de ce qu'il y en a dans toute l'<hi>Angleterre</hi> &amp; le double de <hi>Paris</hi> &amp; de ses faux<g ref="char:EOLhyphen"/>bourgs, c'est a dire 2 millions d'a<g ref="char:EOLhyphen"/>mes. 2. Il dit qu'a <hi>Londres, Amster<g ref="char:EOLhyphen"/>dam</hi> &amp; autres villes marchandes il ya 10 tétes par famille &amp; qu'a <hi>Am<g ref="char:EOLhyphen"/>sterdam</hi> il n'y a pas 22 <hi>m.</hi> familles. 3. Il fait difficulté d'admettre le re<g ref="char:EOLhyphen"/>gistre allégué par Mr. <hi>Auzout</hi> qui
+<pb n="47" facs="tcp:199217:52"/> met 23223 maisons &amp; plus de 80 mille familles a <hi>Paris,</hi> comme aussi le registre allégué par Mr. <hi>Petty</hi> qui met 105315 maisons a <hi>Londres</hi> avec la dixiéme partie de familles plus qu'il n'y a de maisons, &amp; probable<g ref="char:EOLhyphen"/>ment il fera la méme difficulté con<g ref="char:EOLhyphen"/>tre le registre de 1163 <hi>m.</hi> maisons en toute l'<hi>Angleterre,</hi> qui font a 6 tétes &amp; un tiers par famille, envi<g ref="char:EOLhyphen"/>ron 7 millions d'habitans. Sur tou<g ref="char:EOLhyphen"/>tes les quelles choses nous faisons les remarques suivantes.</p>
+            <p n="1">1. Que s'il n'y a dans <hi>Paris</hi> que 488 <hi>m.</hi> ames, il n'y a donc dans toute la <hi>Hollande</hi> que le double de ce nombre ou 976 <hi>m.</hi> ainsi y ayant a <hi>Londres</hi> 696 <hi>m.</hi> ames, il s'y trouve 46 <hi>m.</hi> personnes plus que les ⅔ de toute la <hi>Hollande.</hi>
+            </p>
+            <p n="2">
+               <pb n="48" facs="tcp:199217:53"/> 2. Si <hi>Paris</hi> contient la moitié de ce qu'il ya de monde en <hi>Angleterre,</hi> il faut qu'il contienne 3 millions &amp; demy d'ames ou plus de 7 fois 488 <hi>m.</hi> &amp; parce qu'il n'en meure pas 20 mille par an a <hi>Paris,</hi> il faut qu'il n'y en meure qu'un de 175, Là ou Mr. <hi>Auzout</hi> croit qu'il en meurt un de 25, &amp; il faut qu'il demeure 149 personnes dans chacune des mai<g ref="char:EOLhyphen"/>sons de <hi>Paris</hi> mentionneé dans le registre, &amp; qu'il demeure a peine deux personnes dans chaque mai<g ref="char:EOLhyphen"/>son d'<hi>Angleterre,</hi> toutes les quelles choses meritent bien a ce que nous croions d'estre considerées de nou<g ref="char:EOLhyphen"/>veau.</p>
+            <p>Je ne puis m'empécher, estant <hi>Anglois,</hi> de faire encore une re<g ref="char:EOLhyphen"/>marque,
+<pb n="49" facs="tcp:199217:54"/> c'est que ces assertions re<g ref="char:EOLhyphen"/>flechissent sur l'empire d'<hi>Angleterre</hi> en ce qu'il y est dit que l'<hi>Angleterre</hi> n'a que 2 millions d'habitans, on pouroit aussi bien avoir ajouté que l'Ecosse, l'<hi>Irelande</hi> avec les Isles de <hi>Man, Jersey</hi> &amp; <hi>Gernsey</hi> n'ont que ⅖ de ce méme nombre ou 800 <hi>m.</hi> da<g ref="char:EOLhyphen"/>vantage, ou que tous les sujets du Roy d'<hi>Angleterre</hi> en <hi>Europe</hi> ne sont que 2 millions 800 <hi>m.</hi> ames, aulieu qu'il nous assure que les sujets des 7 Provinces unies sont 4 millions, a quoy nous répondons qu'au senti<g ref="char:EOLhyphen"/>ment méme de celuy qui fait ces objections les sujets des 7 Provinces ne sont que le quadruple de <hi>Paris</hi> ou 1932 <hi>m.</hi> ames, n'y en ayant a <hi>Paris</hi> que 488 <hi>m.</hi> comme on a fait voir cy devant, &amp; nous soutenons icy qu'il y a en <hi>Angleterre</hi> 7 milli<g ref="char:EOLhyphen"/>ons
+<pb n="49" facs="tcp:199217:55"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="50" facs="tcp:199217:56"/> d'habitans &amp; que l'Ecosse, l'<hi>Ir<g ref="char:EOLhyphen"/>lande</hi> avec les Isles de <hi>Man</hi> de <hi>Jar<g ref="char:EOLhyphen"/>sey</hi> &amp; <hi>Gernesey</hi> ont ⅖ dudit nombre, ou deux millions 800 <hi>m.</hi> ames, au<g ref="char:EOLhyphen"/>lieu que par sa doctrine si les 7 Pro<g ref="char:EOLhyphen"/>vinces ont 1932 <hi>m.</hi> habitans, le Roy d'<hi>Angleterre</hi> n'auroit dans tous ses états que 7/10 de ce méme nom<g ref="char:EOLhyphen"/>bre asçavoir 1351 <hi>m.</hi> aulieu que nous disons 9800 <hi>m.</hi> mille comme nous avons dit Laquelle difference est si considerable qu'elle merite bieu qu'on y fasse reflection.</p>
+            <p>Pour conclure nous attendons des critiques interressez en cecy qu'ils nous prouvent.</p>
+            <p n="1">
+               <pb n="51" facs="tcp:199217:57"/> 1. Qu'il ya en <hi>Hollande</hi> &amp; en <hi>West-Frise</hi> &amp; dans leurs 28 villes plus de monde qu' à <hi>Londres</hi> seul.</p>
+            <p n="2">2. Que 3 des meilleures villes de <hi>France,</hi> ou deux de toute La <hi>Chrétienté,</hi> ou une de toute la terre, ont autant de monde, ou de meil<g ref="char:EOLhyphen"/>leurs logements, ou un plus grand commerce, que <hi>Londres</hi> méme que le l'année Roy Jaques second est venu à la couronne.</p>
+            <trailer>La Fin.</trailer>
+         </div>
+         <div n="5" xml:lang="eng" type="essay">
+            <pb n="42" facs="tcp:199217:47"/>
+            <head>The FIFTH ESSAY.</head>
+            <argument>
+               <p>
+                  <hi>Concerning</hi> Holland <hi>and the rest of the United Provinces.</hi>
+               </p>
+            </argument>
+            <p>SInce the close of this Paper, it hath been objected from <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> That what hath been said of the number of Houses and Peo<g ref="char:EOLhyphen"/>ple in <hi>London</hi> is not like to be true; for that if it were, then <hi>Lon<g ref="char:EOLhyphen"/>don</hi> would be the ⅔ of the whole Province of <hi>Holland.</hi> To which is answered, That <hi>London</hi> is the ⅔ of all <hi>Holland</hi> and more, that Province having not a Million and 44 thousand Inhabitants (where<g ref="char:EOLhyphen"/>of 696 <hi>m.</hi> is the ⅔) nor above 800
+<pb n="43" facs="tcp:199217:48"/> thousand, as we have credibly and often heard; for suppose <hi>Amster<g ref="char:EOLhyphen"/>dam</hi> hath, as we have elsewhere noted 187 thousand, the seven next great Cities at 30 thousand each one with another 210 thousand, the 10 next at 15 thousand each 150 thou<g ref="char:EOLhyphen"/>sand, the 10 smallest at 6 thousand each 60 thousand, in all the 28 walled Cities and Towns of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> 607 thousand, in the Dorps and Villages 193 thousand, which is about one Head for every 4 Acres of Land; whereas in <hi>England</hi> there is 8 Acres for every Head, without the Cities and Market Towns.</p>
+            <p>Now suppose <hi>London</hi> having 116 thousand Families, should have 7 Heads in each, the medium between Monsr. <hi>Auzout</hi> and <hi>Grant</hi>'s
+<pb n="44" facs="tcp:199217:49"/> reckonings, the total of the People would be 812 thousand, or if we reckon that there dies one out of 34 (the Medium between 30 and 37 above mentioned) the total of the People would be 34 times 23212, <hi>viz.</hi> 789208, the Medium between which number, and the above 812 thousand is 800604, somewhat ex<g ref="char:EOLhyphen"/>ceeding 800 thousand, the supposed number of <hi>Holland.</hi>
+            </p>
+            <p>Farthermore, I say that upon for<g ref="char:EOLhyphen"/>mer searches into the Peopling of the World, I never found that in a<g ref="char:EOLhyphen"/>ny Countrey (not in <hi>China</hi> it self) there was more than one Man to e<g ref="char:EOLhyphen"/>very English Acre of Land (many Territories passing for well peopled, where there is but one Man for ten
+<pb n="45" facs="tcp:199217:50"/> such Acres) I found by measuring <hi>Holland</hi> and <hi>West-Frizia, alias North-Holland,</hi> upon the best Maps, that it contained but as many such Acres as <hi>London</hi> doth of People, <hi>viz.</hi> about 696 thousand Acres; I therefore venture to pro<g ref="char:EOLhyphen"/>nounce (till better informed) That the People of <hi>London</hi> are as ma<g ref="char:EOLhyphen"/>ny as those of <hi>Holland,</hi> or at least above ⅔ of the same; which is e<g ref="char:EOLhyphen"/>nough to disable the Objection above mentioned; nor is there any need to strain up <hi>London</hi> from 696 thousand to 800 thousand, though competent reasons have been given to that purpose, and though the Authour of the excellent Map of <hi>London,</hi> set forth <hi>Anno</hi> 1682, reckoned the People thereof (as by the said Map appears) to be 1200
+<pb n="46" facs="tcp:199217:51"/> thousand, even when he thought the Houses of the same to be but 85 thousand.</p>
+            <p>The worthy person who makes this objection in the same Letter also saith,</p>
+            <p>1. That the Province of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> hath as many People as the other 6. Ʋnited Provinces together, and as the whole Kingdom of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and double to the City of <hi>Paris</hi> and its Suburbs; that is to say, 2 millions of Souls. 2. He says that in <hi>London</hi> and <hi>Amster<g ref="char:EOLhyphen"/>dam,</hi> and other trading Cities there are 10 Heads to every Fami<g ref="char:EOLhyphen"/>ly, and that in <hi>Amsterdam</hi> there are not 22 thousand Families. 3. He excepteth against the Register al<g ref="char:EOLhyphen"/>ledged by Monsr. <hi>Auzout,</hi> which
+<pb n="47" facs="tcp:199217:52"/> makes 23223 Houses, and above 80 thousand Families to be in <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> as also against the Register al<g ref="char:EOLhyphen"/>ledged by <hi>Petty,</hi> making 105315 Houses to be in <hi>London,</hi> with a tenth part of the same to be of Families more than Houses, and probably will except against the Re<g ref="char:EOLhyphen"/>gister of 1163 Houses to be in all <hi>England,</hi> that number giving at 6 ⅓ Heads to each Family, about 7 millions of People, upon all which we remark as followeth, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That if <hi>Paris</hi> doth contain but 488 thousand Souls, that then all <hi>Holland</hi> containeth but the double of that number, or 976 thousand, where<g ref="char:EOLhyphen"/>fore <hi>London</hi> containing 696 thou<g ref="char:EOLhyphen"/>sand Souls, hath above ⅔ of all <hi>Hol<g ref="char:EOLhyphen"/>land</hi> by 46 thousand.</p>
+            <p n="2">
+               <pb n="48" facs="tcp:199217:53"/> 2. If <hi>Paris</hi> containeth half as many People as there are in all <hi>England,</hi> it must contain 3 milli<g ref="char:EOLhyphen"/>ons and a half of Souls, or above 7 times 488 thousand, and be<g ref="char:EOLhyphen"/>cause there do not die 20 thousand <hi>per an.</hi> out of <hi>Paris,</hi> there must die but one out of 175, whereas Monsr. <hi>Auzout</hi> thinks that there dies one out of 25, and there must live 149 Heads in every House of <hi>Paris</hi> mentioned in the Register, but there must be scarce 2 Heads in every House of <hi>England,</hi> all which we think fit to be reconsi<g ref="char:EOLhyphen"/>dered.</p>
+            <p>I must as an English Man take notice of one point more, which is,
+<pb n="49" facs="tcp:199217:54"/> that these Assertions do reflect upon the Empire of <hi>England,</hi> for that it is said, that <hi>England</hi> hath but two millions of Inhabitants, and it might as well have been added, that <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> with the Islands of <hi>Man, Jearsey</hi> and <hi>Gearnsey</hi> have but ⅖ of the same number, or 800 thousand more, or that all the King of <hi>England</hi>'s Subjects in <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> are but two millions and 800 thousand Souls, whereas he saith, that the Subjects of the 7 Ʋnited Provinces are four Millions. To which we answer, That the Subjects of the said 7 Provinces, are by this Objectour's own shewing, but the Quadruple of <hi>Paris,</hi> or 1932 thou<g ref="char:EOLhyphen"/>sand Souls, <hi>Paris</hi> containing but 488000 as afore hath been prov'd, and we do here affirm that <hi>England</hi>
+               <pb n="49" facs="tcp:199217:55"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="50" facs="tcp:199217:56"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ath 7 millions of People, and that <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cotland, Ireland,</hi> with the Islands <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>f <hi>Man, Jearsey</hi> and <hi>Gearnsey,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ath ⅖ of the said number, or two <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>illions 800 thousand more, in all <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> millions 800 thousand; whereas <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y the Objectour's doctrine, if the 7 Provinces have 1932 thousand Peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le, the King of <hi>England</hi>'s Terri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ories should have but 7/10 of the same <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>umber, <hi>viz.</hi> 1351 thousand where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s we say 9800 thousand, as afore<g ref="char:EOLhyphen"/>said, which difference is so gross as that it deserves to be thus reflected upon.</p>
+            <p>To conclude, we expect from the concerned Critiques of the World, that they would prove,</p>
+            <p n="1">
+               <pb n="51" facs="tcp:199217:57"/> 1. That <hi>Holland</hi> and <hi>West-Fri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ia,</hi> and the 28 Towns and Cities <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hereof, hath more People than <hi>Lon<g ref="char:EOLhyphen"/>don</hi> alone.</p>
+            <p n="2">2. That any 3 the best Cities of <hi>France,</hi> any 2 of all Christendom, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r any one of the World, hath the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ame, or better Housing, and more foreign Trade than <hi>London,</hi> even in the year that King <hi>James</hi> the Second came to the Empire thereof.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
